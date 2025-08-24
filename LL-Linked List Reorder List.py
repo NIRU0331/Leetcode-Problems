@@ -23,4 +23,4 @@ class Solution:
             left.next = right
             right.next = tmp1
 
-            left, right = tmp1, tmp2
+            left, right = tmp1, tmp2 

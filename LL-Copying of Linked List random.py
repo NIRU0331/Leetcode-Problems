@@ -15,4 +15,4 @@ class Solution:
             copy.random = hash[cur.random]
             cur = cur.next
             
-        return hash[head]
+        return hash[head] 
